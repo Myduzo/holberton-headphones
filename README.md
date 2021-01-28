@@ -64,8 +64,6 @@
 
 ### Built With
 
-<br />
-
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 
 * [CSS](https://en.wikipedia.org/wiki/CSS)
