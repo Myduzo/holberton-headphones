@@ -19,6 +19,7 @@
 
 <p align="center">
   This project is about building a website with just html and css by following a Figma design project.
+  
 </p>
 
 <br />
